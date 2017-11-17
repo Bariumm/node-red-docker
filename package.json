@@ -18,7 +18,7 @@
         "node-red-node-base64": "*",
         "node-red-node-suncalc": "*",
         "node-red-node-random": "*",
-        "node-red-contrib-influxdb: "*"
+        "node-red-contrib-influxdb": "*"
     },
     "engines": {
         "node": "4.*.*"
